@@ -18,8 +18,7 @@ int main()
     {
         cout << x << endl;
     }
-    cout << vec.size() << endl;
+    cout << vec.size() <<" "<< vec.capacity() << endl;
     referance();
     return 0;
 }
-
