@@ -12,10 +12,10 @@ int main()
     cout << bigNum << endl;
     float prince = 19.99f;
     double pi = 3.1415922244;
-    cout << prince << endl
+    cout << prince << endl 
          << pi << endl;
     char grade = 'A';
     bool isActive = true;
-    
+    cout<<sizeof(double)<<endl;
     return 0;
 }
